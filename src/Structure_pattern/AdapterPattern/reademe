@@ -1,0 +1,2 @@
+http://www.runoob.com/design-pattern/adapter-pattern.html
+AdvanceMediaPlayer是MediaPlayer的扩展。通过MediaAdapter将AdvanceMediaPlayer的功能加载到MediaPlayer中。
